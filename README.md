@@ -18,3 +18,6 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
   - "Ice Breaking/Shattering" by IgnasD, OpenGameArt (CC0)
   - "Fire Staff Sound Effects" by LEGIT Audio, OpenGameArt (CC0)
   - "Explosion-LS100155" (Fg2) and "Explosion 10" (tcpp), Wikimedia Commons (public domain)
+
+## Code Matrix images
+`img/pyx/*.jpg`: generated with Midjourney for Tristan's Score Quest (title, plant, bomb, vault, satellite, mainframe, firewall, hero).
