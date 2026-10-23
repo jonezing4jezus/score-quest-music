@@ -19,5 +19,10 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
   - "Fire Staff Sound Effects" by LEGIT Audio, OpenGameArt (CC0)
   - "Explosion-LS100155" (Fg2) and "Explosion 10" (tcpp), Wikimedia Commons (public domain)
 
+- `flood-sfx.mp3`: Flood Guard sounds (rushing water loops, splashes, wood and rock impacts), trimmed, mixed to mono and
+  normalized from these CC0 (public domain dedication) recordings:
+  - "40 CC0 water / splash / slime SFX" by rubberduck, OpenGameArt (CC0), https://opengameart.org/node/86789
+  - "Impact Sounds" by Kenney, kenney.nl (CC0)
+
 ## Code Matrix images
 `img/pyx/*.jpg`: generated with Midjourney for Tristan's Score Quest (title, plant, bomb, vault, satellite, mainframe, firewall, hero).
