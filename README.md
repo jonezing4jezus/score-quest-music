@@ -2,7 +2,7 @@
 
 Background music and sounds streamed by Tristan's Score Quest (a private family app).
 
-- `star-hopper.mp3`, `atomic-fury.mp3`, `golden-death.mp3`, `mother-of-chaos.mp3`, `earthshaker.mp3`, `event-horizon.mp3`, `hold-the-fjord.mp3`, `green-rain.mp3`: themes made with Suno.
+- `star-hopper.mp3`, `atomic-fury.mp3`, `golden-death.mp3`, `mother-of-chaos.mp3`, `earthshaker.mp3`, `event-horizon.mp3`, `hold-the-fjord.mp3`, `green-rain.mp3`, `hold-back-the-flood.mp3` (Flood Guard), `level-up-lounge.mp3` (dashboard menu): themes made with Suno.
 - `thunder-crack.mp3`: "Thunder crack 2B" by Jud McCranie, from Wikimedia Commons
   (https://commons.wikimedia.org/wiki/File:Thunder_crack_2B.ogg), licensed CC BY-SA 4.0
   (https://creativecommons.org/licenses/by-sa/4.0/). Converted to MP3 by Wikimedia; the game plays short
