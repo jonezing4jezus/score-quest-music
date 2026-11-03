@@ -47,6 +47,36 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
   - "Antique Pocket Watch Ticking and Winding" by apintofmild (CC0), https://freesound.org/s/847217/
   - "Pieces examined on table" by mateusboga (CC0), https://freesound.org/s/264605/
 
+- `nova-sfx.mp3`: Nova Squadron sounds (lasers, explosions, shield and hull hits, scrapes, missile, lock tone, roll, pickups, boss
+  klaxon, win and loss stings, UI clicks, engine and boost loops), trimmed, mixed to mono and normalized from these CC0 recordings on
+  Freesound:
+  - "Projectile Shoot" by unfa (CC0), https://freesound.org/s/193427/
+  - "Laser shot.wav" by michael_grinnell (CC0), https://freesound.org/s/512469/
+  - "Laser blast x3" by peridactyloptrix (CC0), https://freesound.org/s/214990/
+  - "Sci-fi gun shot x6" by humanoide9000 (CC0), https://freesound.org/s/330293/
+  - "Explosion_01.wav" by tommccann (CC0), https://freesound.org/s/235968/
+  - "Bang/Explosion Metallic" by Werra (CC0), https://freesound.org/s/244394/
+  - "Big Far Explosion" by unfa (CC0), https://freesound.org/s/156500/
+  - "massive explosion" by Hugofski (CC0), https://freesound.org/s/177556/
+  - "scifi hit thing 2.wav" by IanStarGem (CC0), https://freesound.org/s/478809/
+  - "Metal Hit Cartoon" by Johnnyfarmer (CC0), https://freesound.org/s/209771/
+  - "Metal Impact" by Rickplayer (CC0), https://freesound.org/s/530486/
+  - "Metal Scrape" by magnuswaker (CC0), https://freesound.org/s/530075/
+  - "Scraping Stone" by dslrguide (CC0), https://freesound.org/s/321488/
+  - "Missile firing fl.mp3" by NHMWretched (CC0), https://freesound.org/s/151858/
+  - "missile lock on sound" by Alxy (CC0), https://freesound.org/s/189327/
+  - "swish/whoosh" by JSilverSound (CC0), https://freesound.org/s/568834/
+  - "Whoosh" by qubodup (CC0), https://freesound.org/s/60013/
+  - "Game Powerup" by Jofae (CC0), https://freesound.org/s/368651/
+  - "Klaxon" by InfamousLazure (CC0), https://freesound.org/s/584001/
+  - "Game Success Fanfare" by el_boss (CC0), https://freesound.org/s/677859/
+  - "Life Lost Game Over" by noirenex (CC0), https://freesound.org/s/159408/
+  - "UI Button Click" by benzix2 (CC0), https://freesound.org/s/467951/
+  - "SFX UI Button Click" by suntemple (CC0), https://freesound.org/s/253168/
+  - "Retro Bonus Pickup SFX" by suntemple (CC0), https://freesound.org/s/253172/
+  - "Sci-Fi Engine Seamless Loop" by qubodup (CC0), https://freesound.org/s/858707/
+  - "Rocket Thrust 02" by LilMati (CC0), https://freesound.org/s/515122/
+
 ## Case Files images
 `img/cf/*.jpg`: generated with Midjourney for Tristan's Score Quest (office, filing drawer, city map, places, items, portraits).
 
@@ -55,3 +85,6 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
 
 ## Trials of Olympus images
 `img/ol/*.jpg`: generated with Midjourney for Tristan's Score Quest (title, map, palaces, trial backdrops, god portraits, blessings and keepsakes).
+
+## Nova Squadron images
+`img/nova/*`: generated with Midjourney for Tristan's Score Quest (cockpit overlay and panel light mask, planet Ardent, sky panoramas for each mission, sun, explosion and warp sprites, hangar, star chart, mission splashes, rare part icons).
