@@ -77,6 +77,39 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
   - "Sci-Fi Engine Seamless Loop" by qubodup (CC0), https://freesound.org/s/858707/
   - "Rocket Thrust 02" by LilMati (CC0), https://freesound.org/s/515122/
 
+- `ui-<theme>.mp3`: dashboard tap sounds for each theme (button tap, opening a section, a friendly mascot, a trouble mascot, a cheer),
+  trimmed, mixed to mono and normalized from these CC0 recordings on Freesound:
+  - Minecraft (`ui-minecraft.mp3`):
+    - tap: "Wooden Click" by BenjaminNelan (CC0), https://freesound.org/s/321083/
+    - open: "chest openning crack" by ssierra1202 (CC0), https://freesound.org/s/391947/
+    - friend: "Pop sound" by deraj (CC0), https://freesound.org/s/202230/
+    - trouble: "Poof of Smoke" by Planman (CC0), https://freesound.org/s/208111/
+    - cheer: "correct" by ertfelda (CC0), https://freesound.org/s/243701/
+  - Shark Reef (`ui-sharks.mp3`):
+    - tap: "Bubble" by deleted_user (CC0), https://freesound.org/s/269583/
+    - open: "Water Swish" by dslrguide (CC0), https://freesound.org/s/321489/
+    - friend: "Bubbles Single2" by BMacZero (CC0), https://freesound.org/s/96125/
+    - trouble: "Big Splash" by Bird_man (CC0), https://freesound.org/s/316744/
+    - cheer: "harp glissando" by PhonosUPF (CC0), https://freesound.org/s/490831/
+  - Dino Valley (`ui-dinos.mp3`):
+    - tap: "Stone hit" by CamoMano (CC0), https://freesound.org/s/431019/
+    - open: "bushhit" by j1987 (CC0), https://freesound.org/s/106113/
+    - friend: "Single Bird Chirp" by alegemaate (CC0), https://freesound.org/s/233255/
+    - trouble: "Creature Short Growl" by Joao_Janz (CC0), https://freesound.org/s/483796/
+    - cheer: "Bongo1" by menegass (CC0), https://freesound.org/s/99751/
+  - Truck Yard (`ui-trucks.mp3`):
+    - tap: "ratchet" by Nomadyag (CC0), https://freesound.org/s/193058/
+    - open: "Air Brake Applied" by chungus43A (CC0), https://freesound.org/s/705390/
+    - friend: "Car horn beep beep" by AmishRob (CC0), https://freesound.org/s/423990/
+    - trouble: "Airhorn" by jacksonacademyashmore (CC0), https://freesound.org/s/414208/
+    - cheer: "Tada Fanfare G" by plasterbrain (CC0), https://freesound.org/s/397353/
+  - Alien Planet (`ui-aliens.mp3`):
+    - tap: "SciFi Two-Part Click" by Jofae (CC0), https://freesound.org/s/382574/
+    - open: "teleport" by Leszek_Szary (CC0), https://freesound.org/s/172207/
+    - friend: "Bloop06" by nfrae (CC0), https://freesound.org/s/625811/
+    - trouble: "ELECTRIC ZAP 001" by JoelAudio (CC0), https://freesound.org/s/136542/
+    - cheer: "Spacey 1up" by GameAudio (CC0), https://freesound.org/s/220173/
+
 ## Case Files images
 `img/cf/*.jpg`: generated with Midjourney for Tristan's Score Quest (office, filing drawer, city map, places, items, portraits).
 
@@ -88,3 +121,6 @@ Background music and sounds streamed by Tristan's Score Quest (a private family 
 
 ## Nova Squadron images
 `img/nova/*`: generated with Midjourney for Tristan's Score Quest (cockpit overlay and panel light mask, planet Ardent, sky panoramas for each mission, sun, explosion and warp sprites, hangar, star chart, mission splashes, rare part icons).
+
+## Theme images
+`img/themes/<theme>/*.webp` (sharks, dinos, trucks, aliens): generated with Midjourney for Score Quest (mascots, bosses, icons, banner and ground strip), cut out and converted to webp.
